@@ -2,7 +2,8 @@ h1 {
     font-size: 48px;
 }
 
-div {
+div,
+a {
     font-family: Arial, Helvetica, sans-serif;
 }
 
